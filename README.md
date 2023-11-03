@@ -1,2 +1,2 @@
 # DBSCAN
-DBSCAN algorithm for learn
+DBSCAN algorithm for learning
